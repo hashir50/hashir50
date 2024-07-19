@@ -7,7 +7,7 @@
  
 - 🌱 I’m currently learning **Angular & MERN Stack**
  
-- 💬 Ask me about **C#, ASP.NET Core, Angular**
+- 💬 Ask me about **C#, ASP.NET Core,RPA(Robotic Process Automation) Angular**
  
 - 📫 How to reach me **m.hashir.dev@gmail.com**
  
